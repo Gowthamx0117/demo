@@ -27,5 +27,5 @@ The **Number Plate Prediction** project focuses on detecting and recognizing veh
 
 1. **Clone the Repository**  
    ```bash  
-   git clone https://github.com/your-username/number-plate-prediction.git  
+   git clone https://github.com/Gowthamx0117/number-plate-prediction.git  
    cd number-plate-prediction  
